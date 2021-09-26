@@ -14,3 +14,7 @@
 1. Open your command prompt.
 2. Type `pip install pyqt5`.
 3. Wait for the install to finish and you're done.
+
+**Running the Program**
+
+1. Run the calculator.py
